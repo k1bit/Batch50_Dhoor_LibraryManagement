@@ -130,7 +130,19 @@ All outputs below are from real runs of the program.
 
 ## Screenshots
 
-Screenshots of the program running are in the `screenshots/` folder.
+Screenshots of the program running:
+
+## Screenshots
+
+![Output 1](screenshots/output1.png)
+
+![Output 2](screenshots/output2.png)
+
+![Output 3](screenshots/output3.png)
+
+![Output 4](screenshots/output4.png)
+
+![Output 5](screenshots/output5.png)
 
 ## Repository Contents
 
