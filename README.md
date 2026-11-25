@@ -132,8 +132,6 @@ All outputs below are from real runs of the program.
 
 Screenshots of the program running:
 
-## Screenshots
-
 ![Output 1](screenshots/output1.png)
 
 ![Output 2](screenshots/output2.png)
